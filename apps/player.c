@@ -9,4 +9,5 @@ int main()
 	
 
 	printf("HAHAHA GitHub GOOD!\n");
+	printf("HAHA HERE ARE GITHUB^_^\n");
 }
